@@ -18,15 +18,13 @@
       "generator": "secret"
     },
     "HARVEST_TOKEN": {
-      "value":"2998641.pt.2dTAb8egRCqHKkhIERbE4lA19Qb_2gPDRAMAgGWl2yY_hUBOK2KeBuyKiAIUgY5n8sr7lHyolgUVGit8wt4-wA",
+      
       "required": true
     },
     "HARVEST_ACCOUNT_ID": {
-      "value":"1402321",
       "required": true
     },
     "SLACK_TOKEN": {
-      "value":"xoxb-807702365729-6731507310017-57WtpUpN5z1XPuruOfMh4zgc",
       "required": true
     },
     "EMAILS_WHITELIST": {
