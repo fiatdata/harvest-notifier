@@ -44,7 +44,8 @@
   },
   "addons": [
     "deadmanssnitch:the-lone-snitch",
-    "scheduler:standard",
+    "scheduler:standard"
+    "rollbar:free",
   
   ],
   "buildpacks": [
